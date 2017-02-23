@@ -1,0 +1,9 @@
+{
+  "name": "first-oauth-app",
+  "version": "0.0.0",
+  "description": "FirstOAuthApp",
+  "main": "server.js",
+  "author": {
+    "name": "asantha"
+  }
+}
